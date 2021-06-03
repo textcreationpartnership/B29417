@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh the first day of February, 1642. Forsamekle [sic] as by the crueltie of the rebels in Ireland, great numbers of His Majesties good subjects, and our own countreymen there, are daily forced to flee out of Ireland to those parts in the west countrey, ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29417</idno><idno type="EEBO-CITATION">99886256</idno>
+  <idno type="VID">188444</idno>
+  <idno type="EEBO-PROQUEST">2240889071</idno>
+  
+            <idno type="STC">Wing S1501</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.11[29]</idno>
+            <idno type="STC">ESTC R225751</idno>
+            <idno type="PROQUEST">ocm99886256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886256e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188444)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh the first day of February, 1642. Forsamekle [sic] as by the crueltie of the rebels in Ireland, great numbers of His Majesties good subjects, and our own countreymen there, are daily forced to flee out of Ireland to those parts in the west countrey, ...</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Primrose, Archibald, Sir, 1616-1679.</author>
+                  <author>Scotland. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Steele.</note>
+                  <note>Steele notation: Maje-  mie,  manua-.</note>
+                  <note>Signed at end: Arch Primerose, Cler., S.Cons.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188444:1"/>
+            <opener>
+               <dateline>❧ At Edinburgh <date>the first day of February, 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orsamekle as by the crueltie of the Rebels in <hi>Ireland,</hi> great numbers of His Maje<g ref="char:EOLhyphen"/>sties good Subjects, and our own Countreymen there, are daily forced to flee out of <hi>Ireland</hi> to those parts in the West Countrey, where they find best occasion of land<g ref="char:EOLhyphen"/>ing, the multitude of which poore People is become so great, and their necessities and wants so pressing, as the Parishes in the West where they land, have exhausted the Boxes of their poore and collections among themselves, and other parts neere about, and are not able to supply any considerable number of the saids poor people; who, in that regard are like to be in worse condition heere, where they looked for succour and refreshment, in so far as by flight having escaped the sword of the Ene<g ref="char:EOLhyphen"/>mie, by famine they will miserably perish if they be not timeouslie supplyed. And the Lords of Secret Councell finding themselves every way obliged to help and relieve the calamitous condi<g ref="char:EOLhyphen"/>tion of these poore People; and perswading themselves, that the cause for which they suffer, being loyaltie and Religion, will be powerfull motives with all good Subjects, and true-hearted Christians, liberally to con<g ref="char:EOLhyphen"/>tribute of their meanes for the refreshment and comfort of so many Christian Soules, specially being our own Countreymen, and knowing perfectly that the Ministerie of the Kingdome will not be deficient, but use their best endeavours in so pious and necessary a work. Therefore the saids Lords have recommended, and by the tenour hereof recommends the saids distressed Christians, and their deplorable condition to the Moderatours, Brethren, and Elders of the whole Presbyteries within the Kingdome. Requesting and desiring them with all convenient diligence to give tymous and solide Orders to the severall Ministers and Elders of Parishes within their particular Presbyteries, for collecting of the Christian benevolence of their Parochiners, towards the relief of the saids distressed Christians. And that the saids Ministers use all the powerfull and perswasive wayes they can in their Sermons, and other wayes to stirie up their Flocks, liberally and cheerefully to contri<g ref="char:EOLhyphen"/>bute in this errand. And that the Minister of every Parish bring in his contribution to the Moderator of the Presbytery, to be sent by him to the persons under written, appointed by the saids Lords for receiving of the same in maner after specified, <hi>viz.</hi> the Moderator of the Presbyteries of the Provincialls of Fyffe, Angus, Aberdene, Murrey, Rosse, and all others in the other side of Forth, as also the Moderators of the Presbyteries of the Provincials of the Merce, Tivedail, Lothian, and Peebles, To send in and deliver the Collections of the saids Presbyteries at the Burgh of <hi>Edinburgh,</hi> to <hi>James Stuart, John Meyne,</hi> and <hi>Samuel Lockhart</hi> Mer<g ref="char:EOLhyphen"/>chants, Burgesses of <hi>Edinburgh;</hi> or any of them. And the Moderators of the Presbyteries within the Provin<g ref="char:EOLhyphen"/>cials of Sterline, Glasgow, Air, Argyle, Galloway, and Dumfreis, To send in and deliver the Collections of the saids Presbyteries at the Burgh of Air, to <hi>John Osburne,</hi> &amp; <hi>Robert Gordoun,</hi> Merchants, Burgesses, or either of them. Which persons receivers of the saids collections, are men of approven credit and honestie, and will deale faithfully in this so important a cause, according to the orders to be prescribed to them by the Lords of privie Councell, for the destribution of the saids Collections amongst; the saids poore People. And it is here<g ref="char:EOLhyphen"/>by declared, that the charge of carrying the Contributions above written to the Collectours in <hi>Edinburgh,</hi> or <hi>Air,</hi> shall be payed out of the readiest of the Collections.</p>
+            <closer>
+               <signed>Extractum de libris actorum secreti Consilii S. D. N. Regis, per me <hi>Archibaldum Primerose</hi> Clericum ejusdem, sub meis signo &amp; subscriptione manua<g ref="char:EOLhyphen"/>libus. Arch. Primerose, Cler. S. Cons.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
